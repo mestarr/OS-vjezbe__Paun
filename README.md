@@ -1,4 +1,4 @@
-# preddiplomski kolegij: Operacijski sustavi (OS)
+# Preddiplomski kolegij: Operacijski sustavi (OS)
 
 <p>
   <a href="https://ubuntu.com/server" target="_blank">  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
