@@ -1,4 +1,1 @@
-tree -a  . 
-├── .env
-├── script.js
-└── style.css
+Uzeo sam primjere iz Downloads za Zadatak 5.
