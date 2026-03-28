@@ -1,3 +1,4 @@
-vjezba_2/data/./script.js -> vjezba_2/backup/./script.js
-vjezba_2/data/./.env -> vjezba_2/backup/./.env
-vjezba_2/data/./style.css -> vjezba_2/backup/./style.css
+tree -a  . 
+├── .env
+├── script.js
+└── style.css
