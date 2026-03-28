@@ -1,1 +1,3 @@
-Kojom naredbom možete provjeriti sadržaj datoteke u CLI-ju? Provjerite sadržaj svih datoteka? Odgovor je:cat
+vjezba_2/data/./script.js -> vjezba_2/backup/./script.js
+vjezba_2/data/./.env -> vjezba_2/backup/./.env
+vjezba_2/data/./style.css -> vjezba_2/backup/./style.css
