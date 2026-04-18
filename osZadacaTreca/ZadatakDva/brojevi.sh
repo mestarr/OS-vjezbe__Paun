@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ $# -ne 1 ]; then
     echo "Krivi broj argumenata"
     echo "Upotreba mora biti $0 brojeva"

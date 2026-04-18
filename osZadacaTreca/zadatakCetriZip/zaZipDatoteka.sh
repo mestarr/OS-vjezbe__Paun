@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ $# -ne 1 ]; then
     echo "Trebas unesti 1 argument:"
     echo "Evo ti Primjer: $0 test_dir"

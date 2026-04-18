@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ $# -lt 2 ] || [ $# -gt 2 ]; then
     echo "Greska, treba 2 argumenta"
     echo "npr: $0 /home/stjep txt"
@@ -15,7 +17,7 @@ if [ ! -d "$dir" ]; then
     exit 1
 fi
 
-nasa=0
+nasao=0
 
 for f in "$dir"/*; do
     if [ ! -f "$f" ]; then
@@ -28,6 +30,6 @@ for f in "$dir"/*; do
     fi
 done
 
-if [ $nasao -eq 0 ]; then
+if [ "$nasao" -eq 0 ]; then
     echo "Nista nije pronadjeno $ext"
 fi

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 dir_skripte="$(dirname "$(realpath "$0")")"
 screens="$dir_skripte/screenshots"
 if [ ! -d "$screens" ]; then
