@@ -7,7 +7,7 @@
   <a href="https://git-scm.com/" target="_blank">  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
   <a href="https://www.vim.org/" target="_blank">  <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white" />
 </p>
-
+  
 **Nositelj**: [doc. dr. sc. Ivan Lorencin](https://fipu.unipu.hr/fipu/ivan.lorencin)  
 **Izvođač** [dr. sc. Sandi Baressi Šegota](https://fipu.unipu.hr/fipu/sandi.baressi_segota)  
 **Asistent**: [Luka Blašković, mag. inf.](https://fipu.unipu.hr/fipu/luka.blaskovic)
