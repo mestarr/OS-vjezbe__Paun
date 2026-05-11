@@ -1,0 +1,3 @@
+odgovor na pitanje 5 u drugom Zadatku: Ne mogu izbirsati direktorij vjezba2 jer nije bio prazan. 
+Dobio sam u konsoli odgovor: stjepan@Pio:/mnt/c/Users/stjep/Desktop/Projekti/OS-vježbe_Paun$ rmdir vjezba2/
+rmdir: failed to remove 'vjezba2/': Directory not empty

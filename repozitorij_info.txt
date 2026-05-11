@@ -1,0 +1,5 @@
+=== Repozitorij Info ===
+Datum: Sat Apr 18 15:37:37 CEST 2026
+Putanja repozitorija: /mnt/c/Users/stjep/Desktop/Projekti/OS1vjezbePaun
+Korisnik: stjepan
+Hostname: Pio
